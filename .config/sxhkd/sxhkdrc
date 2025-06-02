@@ -1,0 +1,14 @@
+Print
+   maim --select ~/pictures/screenshoot/$(date +%s).png
+
+super + shift + F5
+  wallpick
+
+super + shift + c ; i
+  chrome-incognito
+
+super + shift + d ; c
+  dmenu-calc
+
+super + shift + F9
+  systemctl suspend
