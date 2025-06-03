@@ -1,0 +1,27 @@
+! Font & rendering
+Xft.dpi: 96
+Xft.antialias: true
+Xft.hinting: true
+Xft.rgba: rgb
+Xft.hintstyle: hintslight
+
+! nsxiv colors & font
+Nsxiv.window.background : #000000
+Nsxiv.window.foreground : #D3C6AA
+Nsxiv.bar.font          : JetBrains Mono-8
+Nsxiv.bar.background    : #000000
+Nsxiv.bar.foreground    : #D3C6AA
+
+! dwm color scheme
+dwm.normbgcolor         : #201F1D
+dwm.normbordercolor     : #303030
+dwm.normfgcolor         : #D3C6AA
+dwm.selfgcolor          : #000100
+dwm.selbordercolor      : #363636
+dwm.selbgcolor          : #A7C080
+
+! dmenu color scheme
+dmenu.normfgcolor       : #D3C6AA
+dmenu.normbgcolor       : #222222
+dmenu.selfgcolor        : #000100
+dmenu.selbgcolor        : #9DA9A0
